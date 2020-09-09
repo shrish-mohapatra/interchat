@@ -1,5 +1,7 @@
-# interviewSimulator
+# interchat
 A chatbot that simulates a job interview and rates the candidates' (end users') responses. Developed by Shrish Mohapatra and Sayma Khan.
+
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/212/332/datas/gallery.jpg "InterChat Login")
 
 ## Running Application
 In order to run InterChat, clone the project and then complete the following steps. 
